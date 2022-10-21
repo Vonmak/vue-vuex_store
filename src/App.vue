@@ -1,5 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <p>Focus more on how the source code functions rather than the UI</p>
   <div class="container">
     <product-list-one />
     <product-list-two />
